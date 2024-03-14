@@ -1,7 +1,0 @@
-this is first line of text
-
-second line after first commit
-
-2112121
-
-THIS LINE ONLY EXISTS ON USERLOGIN BRANCH!!!!
